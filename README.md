@@ -4,7 +4,7 @@
 - Java 17+
 - MySQL 8+
 - JDBC MySQL Driver (mysql-connector-j)
-- IDE: IntelliJ / Eclipse / NetBeans / Cursor
+- IDE: IntelliJ / Eclipse 
 
 ## Setup
 1. Import the project folder `HostelManagementSystem` into your IDE.
@@ -39,3 +39,4 @@
 - Timezone warnings: the URL includes `serverTimezone=UTC`.
 "# Hostel-Management-System" 
 "# Hostel-Management-System" 
+
